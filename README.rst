@@ -18,7 +18,8 @@ output voltage with a low quiescent current.
 Usage
 -----
 
-This is a KiCad project.
+This is a KiCad project. Select one of the R1 resistor values to change
+the output voltage.
 
 Schematics
 ----------
