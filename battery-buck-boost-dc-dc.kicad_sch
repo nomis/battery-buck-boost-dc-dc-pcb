@@ -2007,7 +2007,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "442kΩ (3.3V) or 390kΩ (4V) or 374kΩ (4.5V) or 324kΩ (5V) 0.1% 125mW"
+		(property "Value" "590kΩ (3.3V) or 442kΩ (4V) or 374kΩ (4.5V) or 324kΩ (5V) 0.1% 125mW"
 			(at 97.79 57.1499 0)
 			(effects
 				(font
